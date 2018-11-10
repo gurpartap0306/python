@@ -1,4 +1,4 @@
-"""people=20
+people=20
 cats=30
 dogs=15
 
@@ -23,7 +23,7 @@ if people <= dogs:
     print("people are less than or equal to dogs")
 
 if people == dogs:
-    print("people are dogs")"""
+    print("people are dogs")
 
 people = 30
 cars =40
